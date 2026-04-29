@@ -20,7 +20,7 @@ JavaScript
 Cypress
 Node.js
 
-
+-------------------
 
 · Estrutura do Projeto:
 
@@ -42,7 +42,7 @@ cypress.config.js
 README.md
 .gitignore
 
-
+-------------------
 
 
 · Legenda da Estrutura do Projeto:
