@@ -4,6 +4,7 @@ Este projeto contém a automação de testes do site https://www.saucedemo.com/,
 
 O objetivo foi validar alguns fluxos principais da aplicação.
 
+-------------------
 
 · Os seguintes cenários foram cobertos:
 
@@ -12,13 +13,14 @@ Login com credenciais inválidas
 Adição de produto ao carrinho
 Logout do sistema
 
+-------------------
 
 · Tecnologias utilizadas:
 JavaScript
 Cypress
 Node.js
 
-
+-------------------
 
 · Estrutura do Projeto:
 
@@ -38,8 +40,9 @@ cypress/
 │
 cypress.config.js
 README.md
+.gitignore
 
-
+-------------------
 
 
 · Legenda da Estrutura do Projeto:
@@ -50,14 +53,23 @@ support/ → comandos customizados e configurações globais
 cypress.config.js → configuração do Cypress
 
 
+-------------------
+
 · Como instalar o projeto >
 
 git clone <LINK_DO_REPOSITORIO> 
 cd <NOME_DO_PROJETO>
 
+
+-------------------
+
+
 · Instale as dependências:
 
 npm install
+
+
+-------------------
 
 
 · Como executar os testes
@@ -67,6 +79,9 @@ npx cypress open
 
 Modo headless (terminal)
 npx cypress run
+
+
+-------------------
 
 
 · Evidências de execução:
@@ -80,6 +95,9 @@ Esses arquivos ficam na pasta:
 
 cypress/screenshots/
 cypress/videos/
+
+
+-------------------
 
 
 · Observações:
