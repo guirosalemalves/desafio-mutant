@@ -34,6 +34,7 @@ O objetivo foi validar alguns fluxos principais da aplicação.
 <br>│
 <br>├── fixtures/
 <br>│   ├──example.json
+<br>│
 <br>├── support/
 <br>│   ├── commands.js
 <br>│   └── e2e.js
