@@ -37,6 +37,7 @@ O objetivo foi validar alguns fluxos principais da aplicação.
 <br>├── support/
 <br>│   ├── commands.js
 <br>│   └── e2e.js
+<br>├── videos/
 <br>│
 <br>cypress.config.js
 <br>README.md
