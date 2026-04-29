@@ -24,23 +24,23 @@ Node.js
 
 · Estrutura do Projeto:
 
-desafio_mutant
-cypress/
-├── e2e/
-│   ├── login.cy.js
-│   ├── login-invalid.cy.js
-│   ├── cart.cy.js
-│   └── logout.cy.js
-│
-├── fixtures/
-│   ├──example.json
-├── support/
-│   ├── commands.js
-│   └── e2e.js
-│
-cypress.config.js
-README.md
-.gitignore
+<br>desafio_mutant
+<br>cypress/
+<br>├── e2e/
+<br>│   ├── login.cy.js
+<br>│   ├── login-invalid.cy.js
+<br>│   ├── cart.cy.js
+<br>│   └── logout.cy.js
+<br>│
+<br>├── fixtures/
+<br>│   ├──example.json
+<br>├── support/
+<br>│   ├── commands.js
+<br>│   └── e2e.js
+<br>│
+<br>cypress.config.js
+<br>README.md
+<br>.gitignore
 
 -------------------
 
@@ -57,8 +57,8 @@ cypress.config.js → configuração do Cypress
 
 · Como instalar o projeto >
 
-git clone <LINK_DO_REPOSITORIO> 
-cd <NOME_DO_PROJETO>
+<br>git clone <LINK_DO_REPOSITORIO> 
+<br>cd <NOME_DO_PROJETO>
 
 
 -------------------
@@ -74,11 +74,11 @@ npm install
 
 · Como executar os testes
 
-Modo interativo (interface do Cypress)
-npx cypress open
+<br>Modo interativo (interface do Cypress)
+<br>npx cypress open
 
-Modo headless (terminal)
-npx cypress run
+<br>Modo headless (terminal)
+<br>npx cypress run
 
 
 -------------------
@@ -93,8 +93,8 @@ Vídeos da execução
 
 Esses arquivos ficam na pasta:
 
-cypress/screenshots/
-cypress/videos/
+<br>cypress/screenshots/
+<br>cypress/videos/
 
 
 -------------------
