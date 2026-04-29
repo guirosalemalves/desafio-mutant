@@ -8,17 +8,17 @@ O objetivo foi validar alguns fluxos principais da aplicação.
 
 · Os seguintes cenários foram cobertos:
 
-Login com sucesso
-Login com credenciais inválidas
-Adição de produto ao carrinho
-Logout do sistema
+<br>Login com sucesso
+<br>Login com credenciais inválidas
+<br>Adição de produto ao carrinho
+<br>Logout do sistema
 
 -------------------
 
 · Tecnologias utilizadas:
-JavaScript
-Cypress
-Node.js
+<br>JavaScript
+<br>Cypress
+<br>Node.js
 
 -------------------
 
