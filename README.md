@@ -20,7 +20,7 @@ JavaScript
 Cypress
 Node.js
 
--------------------
+
 
 · Estrutura do Projeto:
 
@@ -28,7 +28,7 @@ desafio_mutant
 cypress/
 ├── e2e/
 │   ├── login.cy.js
-│   ├── login-failed.cy.js
+│   ├── login-invalid.cy.js
 │   ├── cart.cy.js
 │   └── logout.cy.js
 │
@@ -42,7 +42,7 @@ cypress.config.js
 README.md
 .gitignore
 
--------------------
+
 
 
 · Legenda da Estrutura do Projeto:
