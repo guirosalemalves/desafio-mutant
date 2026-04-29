@@ -47,10 +47,10 @@ Node.js
 
 · Legenda da Estrutura do Projeto:
 
-cypress/e2e/ → onde ficam os testes
-fixtures/ → dados mockados (se necessário)
-support/ → comandos customizados e configurações globais
-cypress.config.js → configuração do Cypress
+<br>cypress/e2e/ → onde ficam os testes
+<br>fixtures/ → dados mockados (se necessário)
+<br>support/ → comandos customizados e configurações globais
+<br>cypress.config.js → configuração do Cypress
 
 
 -------------------
